@@ -1,5 +1,5 @@
-# 西脇.rb&東灘.rb 第4回合同もくもく会
-もくもく会の題材でJekyllを使ってサイトを作ってみた。
+# 西脇.rb&東灘.rb 合同もくもく会 4th
+[もくもく会](http://nishiwaki-higashinadarb.doorkeeper.jp/events/4042)の題材でJekyllを使ってサイトを作ってみた。
 
 ## 環境
 - Debian Linux 7.0.0
